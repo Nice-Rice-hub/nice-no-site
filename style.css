@@ -13,3 +13,6 @@ h1 {
   color: #fa8602;
   font-size: 20px;
 }
+.list {
+  list-style-type:none;
+}

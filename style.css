@@ -1,9 +1,10 @@
 body {
   background-color: #98e3b1;
 }
-h1 {
+.mainpage {
   color: #e398ca;
   font-size: 50px;
+  text-decoration: none;
 }
 .text {
   color: #e398ca;
@@ -15,4 +16,7 @@ h1 {
 }
 .list {
   list-style-type:none;
+}
+.midasi {
+  color : black;
 }
